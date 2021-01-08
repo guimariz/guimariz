@@ -9,7 +9,7 @@ Me chamo Guilherme Mariz Holanda, sou Analista de Sistemas e estou ingressando n
 - 💬 Qualquer dúvida, ajudo no que estiver ao meu alcance.
 - 📫 Meu contato: guimariz@gmail.com
 
-![https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white](guimariz@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](guimariz@gmail.com)
 
 [LinkedIn](https://www.linkedin.com/in/guilherme-mariz-holanda-83b309140/)
 
