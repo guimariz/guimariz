@@ -1,19 +1,13 @@
-### Hi there 👋
+### Bem vindo ao meu Github!
 
-<!--
-**guimariz/guimariz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me chamo Guilherme Mariz Holanda, sou Analista de Sistemas e estou ingressando no mundo da programação.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Atualmente estou fazendo projetos com NodeJS.
+- 🌱 Aprendnedo React Native.
+- 👯 Pretendo me especializar em Desenvolvimento Web/Mobile. 
+- 🤔 Estou sempre aberto para sugestões e parcerias!
+- 💬 Qualquer dúvida, ajudo no que estiver ao meu alcance.
+- 📫 Meu contato: guimariz@gmail.com
 
 [LinkedIn](https://www.linkedin.com/in/guilherme-mariz-holanda-83b309140/)
 
