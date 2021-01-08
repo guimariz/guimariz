@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Welcome])/github-profile-header.png?raw=true)
+[LinkedIn](https://www.linkedin.com/in/guilherme-mariz-holanda-83b309140/)
+
+![Welcome](/github-profile-header.png?raw=true)
