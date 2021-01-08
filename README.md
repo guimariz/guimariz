@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 [LinkedIn](https://www.linkedin.com/in/guilherme-mariz-holanda-83b309140/)
 
-![Welcome](/github-profile-header.png?raw=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guimariz&layout=compact)](https://githhub.com/anuraghazra/github-readme-stats)
