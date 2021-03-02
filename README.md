@@ -2,9 +2,9 @@
 
 Me chamo Guilherme Mariz Holanda, sou Analista de Sistemas e estou ingressando no mundo da programação.
 
-- 🔭 Atualmente estou fazendo projetos com NodeJS.
-- 🌱 Aprendendo React Native.
-- 👯 Pretendo me especializar em Desenvolvimento Web/Mobile. 
+- 🔭 Atualmente estou trabalhando com Ionic 5 e Laravel.
+- 🌱 Aprendendo desenvolvimento mobile multiplataforma..
+- 👯 Pretendo me especializar em Desenvolvimento Mobile. 
 - 🤔 Estou sempre aberto para sugestões e parcerias!
 - 💬 Qualquer dúvida, ajudo no que estiver ao meu alcance.
 - 📫 Meus contatos:
