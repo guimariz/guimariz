@@ -2,7 +2,7 @@
 
 Guilherme Mariz Holanda, Software Developer.
 
-- I'm currently studying C# .Net.
+- I'm currently studying Java and C# .Net.
 - Work experience with Java and Angular.
 - Experience with Python and JavaScript.
 - I'll aways help! Technology must be shared and teaching is the best way to learn.
