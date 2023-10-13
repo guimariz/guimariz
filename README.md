@@ -13,7 +13,8 @@ Como as aulas são de acordo com a necessidade do aluno, caso veja algum tema de
 #### Sobre mim
 Tenho 2 anos de experiência como Desenvolvedor Fullstack e recentemente comecei a dar aulas de programação para iniciantes. Tenho muita facilidade de me comunicar com meus alunos e aprendo bastante com cada um. As minhas mentorias vão desde a programação básica e carreira de desenvolvimento, até pessoas que precisam da programação para outros fins, como alunos de mestrado, jornalistas, etc.
 
-[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5561981534846&text=Fala%2C%20Guilherme!%20Vi%20seu%20Github%20e%20gostaria%20de%20conversar%20com%20voc%C3%AA.)
+#### Contatos
+[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5561981534846&text=Fala%2C%20Guilherme!%20Estou%20interessado%20nas%20aulas%20de%20programacao.)
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/guimariz) 
 
