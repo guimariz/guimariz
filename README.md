@@ -4,12 +4,12 @@
 - Estudo de tecnologias atuais utilizadas no mercado.
 - Mentoria para trilha escolhida pelo aluno.
 
-# Formato das aulas
+### Formato das aulas
 As aulas são feitas pelo discord, onde o aluno está transmitindo sua tela e respondendo a comandos e informações dadas pelo professor.
 Tenho um plano de aula básico, para ensinar a programação do 0, passando pelos fundamentos (lógica de programação, Scratch), Python e frameworks utilizados no mercado.
 Como as aulas são de acordo com a necessidade do aluno, caso veja algum tema de interesse, estou sempre mostrando caminhos a serem percorridos na área.
 
-# Sobre mim
+#### Sobre mim
 Tenho 2 anos de experiência como Desenvolvedor Fullstack e recentemente comecei a dar aulas de programação para iniciantes. Tenho muita facilidade de me comunicar com meus alunos e aprendo bastante com cada um. As minhas mentorias vão desde a programação básica e carreira de desenvolvimento, até pessoas que precisam da programação para outros fins, como alunos de mestrado, jornalistas, etc.
 
 
