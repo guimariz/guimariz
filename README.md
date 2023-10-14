@@ -14,7 +14,7 @@ Como as aulas são de acordo com a necessidade do aluno, caso veja algum tema de
 Tenho 2 anos de experiência como Desenvolvedor Fullstack e recentemente comecei a dar aulas de programação para iniciantes. Tenho muita facilidade de me comunicar com meus alunos e aprendo bastante com cada um. As minhas mentorias vão desde a programação básica e carreira de desenvolvimento, até pessoas que precisam da programação para outros fins, como alunos de mestrado, jornalistas, etc.
 
 #### Contatos
-[![SuperProf]([https://th.bing.com/th/id/OIP.A24J8e65ubIsN5WNsnfvzwHaD4?pid=ImgDet&rs=1](https://dox4euoyzny9u.cloudfront.net/images/fr/superprof-logo.jpg))](https://www.superprof.com.br/aulas-programacao-para-iniciantes-feitas-pelo-discord-introducao-programacao-com-python-estudo-tecnologias-atuais.html)
+[![SuperProf]([https://th.bing.com/th/id/OIP.A24J8e65ubIsN5WNsnfvzwHaD4?pid=ImgDet&rs=1)](https://www.superprof.com.br/aulas-programacao-para-iniciantes-feitas-pelo-discord-introducao-programacao-com-python-estudo-tecnologias-atuais.html)
 
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5561981534846&text=Fala%2C%20Guilherme!%20Estou%20interessado%20nas%20aulas%20de%20programacao.)
 
