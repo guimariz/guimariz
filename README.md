@@ -14,6 +14,8 @@ Como as aulas são de acordo com a necessidade do aluno, caso veja algum tema de
 Tenho 2 anos de experiência como Desenvolvedor Fullstack e recentemente comecei a dar aulas de programação para iniciantes. Tenho muita facilidade de me comunicar com meus alunos e aprendo bastante com cada um. As minhas mentorias vão desde a programação básica e carreira de desenvolvimento, até pessoas que precisam da programação para outros fins, como alunos de mestrado, jornalistas, etc.
 
 #### Contatos
+[![Youtube](https://th.bing.com/th/id/OIP.nIcfLYESEiAWbolDoo2GXQHaEK?rs=1&pid=ImgDetMain)](https://www.youtube.com/@bearDev1)
+
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5561981534846&text=Fala%2C%20Guilherme!%20Estou%20interessado%20nas%20aulas%20de%20rogramacao.)
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/guimariz) 
